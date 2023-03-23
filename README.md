@@ -1,16 +1,13 @@
-# demo
+# Sqflite Demo 
 
-A new Flutter project.
+In this project I have create simple UI & permorm CRUD operation Using sqflite data base in flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Some snapshots & videos
+![Screenshot_1679564100](https://user-images.githubusercontent.com/54205015/227164490-e3f1dea0-dfa5-4165-b679-40252dc83bcc.png)
+![Screenshot_1679564103](https://user-images.githubusercontent.com/54205015/227164523-d6627435-f83b-4809-89b8-6987be0dd760.png)
+![Screenshot_1679564106](https://user-images.githubusercontent.com/54205015/227164543-600bf9d5-e6dc-43e5-a539-8f4ffb75bcb6.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/54205015/227164587-4af45e30-9260-4b81-81f2-918b3d28c89b.mov
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
